@@ -1,6 +1,6 @@
-# ReaderMx Firefox扩展
+# ReaderMX Firefox扩展
 
-添加当前页面至[ReaderMX](http://www.reader.mx)的阅读列表
+添加文章到[ReaderMX](http://www.reader.mx)。
 
 ## 安装方法
 
@@ -11,10 +11,10 @@
 
 ## 操作流程
 
-- 打开需要阅读的页面
+- 打开需要添加至ReaderMX的页面
 - 点击`添加至ReaderMX`的按钮
-- 如果未登录，则会自动跳转到ReaderMX的登录饿页面
-- 带数据发送完并解析成功后，按钮恢复初始状态，这是打开ReaderMX的网站即可看到添加的文章项目
+- 如果未登录，则会自动跳转到ReaderMX的登录页面，登录成功后返回当前页面
+- 等文章添加成功后，按钮恢复初始状态，这时打开ReaderMX的网站即可看到刚添加的文章项目
 
 ## 联系
 - francis <http://blog.francistm.com>
